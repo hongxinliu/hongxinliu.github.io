@@ -81,7 +81,6 @@ plugins:
 # Exclude my node related stuff
 exclude: [
   'package.json',
-  'package-lock.json',
   'src',
   'node_modules',
   'initpost.sh',
