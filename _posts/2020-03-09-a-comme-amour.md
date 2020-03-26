@@ -3,7 +3,7 @@ layout: post
 title: 秋日私语 (A Comme Amour)
 subtitle: 把我诱拐到音乐路上的曲子
 description: 把我诱拐到音乐路上的曲子
-image: https://cdn.nlark.com/yuque/0/2020/png/297742/1585154917670-assets/web-upload/947a61a3-d810-4ae6-a5b6-fa1b0505a14f.png
+image: http://q6zbtnu5s.bkt.clouddn.com/a-comme-amour.png
 category: 音乐
 tags:
   - 电钢琴
