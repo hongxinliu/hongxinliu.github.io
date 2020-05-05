@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="img-rounded" src="http://q8bnf6vht.bkt.clouddn.com/profile.jpeg" alt="Hongxin Liu" width="300">
+<img class="img-rounded" src="http://q9u6h7puj.bkt.clouddn.com/profile.jpeg" alt="Hongxin Liu" width="300">
 
 ## 关于我
 * 处女座码农：不能容忍任何一个Warning，约8年C++开发经验

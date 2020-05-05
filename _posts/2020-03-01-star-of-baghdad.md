@@ -3,7 +3,7 @@ layout: post
 title: 巴格达的星星 (Star of Baghdad)
 subtitle: 能弹哭的静谧夜空
 description: 能弹哭的静谧夜空
-image: http://q8bnf6vht.bkt.clouddn.com/star-of-baghdad.png
+image: http://q9u6h7puj.bkt.clouddn.com/star-of-baghdad.png
 category: 音乐
 tags:
   - 电钢琴
