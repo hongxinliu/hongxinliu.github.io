@@ -3,7 +3,7 @@ layout: post
 title: 电钢琴录音方案总结
 subtitle: 好作品就靠它了
 description: 好作品就靠它了
-image: http://q9u6h7puj.bkt.clouddn.com/keyboard.jpeg
+image: http://qbaqosy5y.bkt.clouddn.com/keyboard.jpeg
 category: 音乐
 tags: 
   - 电钢琴
@@ -69,6 +69,6 @@ CASIO PX160 (耳机接口输出) - (麦克风接口输入) USB声卡 (USB输出)
 
 使用的USB声卡是[绿联的这款产品](https://item.jd.com/1804882.html)，试验了一下，效果还不错。
 
-![UGREEN](http://q9u6h7puj.bkt.clouddn.com/UGREEN-USB-SC.png)
+![UGREEN](http://qbaqosy5y.bkt.clouddn.com/UGREEN-USB-SC.png)
 
 *新作品即将上线，敬请期待🤪🤪🤪*
