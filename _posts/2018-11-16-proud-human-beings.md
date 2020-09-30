@@ -3,7 +3,7 @@ layout: post
 title: 狗这种生物，是不配在地球上沐浴阳光的
 subtitle: 吗
 description: 吗
-image: http://qfvcfny79.hn-bkt.clouddn.com/123.jpeg
+image: http://qhge22hn5.hn-bkt.clouddn.com/123.jpeg
 category: 生活
 tags: 
   - 文明养犬
