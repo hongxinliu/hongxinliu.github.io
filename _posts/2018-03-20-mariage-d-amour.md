@@ -3,7 +3,7 @@ layout: post
 title: 梦中的婚礼 (Mariage d'Amour)
 subtitle: 键盘手必弹曲目
 description: 键盘手必弹曲目
-image: http://qhge22hn5.hn-bkt.clouddn.com/mariage-d-amour.png
+image: http://qkjng4eqo.hn-bkt.clouddn.com/mariage-d-amour.png
 category: 音乐
 tags:
   - 电钢琴
