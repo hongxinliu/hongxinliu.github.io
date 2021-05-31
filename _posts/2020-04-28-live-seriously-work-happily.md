@@ -3,7 +3,7 @@ layout: post
 title: 认真生活，快乐工作
 subtitle: 我们真的有在认真生活吗？
 description: 我们真的有在认真生活吗？
-image: http://qkjng4eqo.hn-bkt.clouddn.com/six-values.jpg
+image: http://qtztjl6lf.hn-bkt.clouddn.com/six-values.jpg
 category: 生活
 tags:
   - 新六脉
