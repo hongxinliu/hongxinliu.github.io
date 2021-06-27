@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: http://qtztjl6lf.hn-bkt.clouddn.com/profile.jpeg
+photo: http://qvcm83j7n.hn-bkt.clouddn.com/profile.jpeg
 name: hongxinliu
 display_name: Hongxin Liu
 position: Senior Software Engineer @ Alibaba
